@@ -1,6 +1,6 @@
 <b>Project Two: TCP Sender/Receiver</b>
 
-<b>Done by: Mohammed Arham (maj596) and Muhammad Areeb (maa1150)</b>
+<b>Done by: Mohammed Arham (maj596)</b>
 
 The program was written and compiled on Catalina Mac OS using GCC compiler. If you want to compile this on mac then please remove -lpthread from the makefile, if you want to run it on linux then keep the -lpthread command. <b></b>
 
